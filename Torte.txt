@@ -1,6 +1,6 @@
 Fruchtige Flamingo-Torte
 
-Springform
+Springform:
 	Backpapier
 	Tortenring
 	etwas	Fett
@@ -12,6 +12,8 @@ Dr. Oetker Back- und Speisefarbe
 etwas	Dr. Oetker Gustin Feine Speisestärke
 Dr. Oetker Zuckerschrift Weiß
 
+Biskuitteig:
+
 4	Eier (Größe M)
 3 EL	heißes Wasser
 150 g	Zucker
@@ -19,3 +21,15 @@ Dr. Oetker Zuckerschrift Weiß
 1 Pr.	Salz
 175 g	Weizenmehl
 1 gestr. TL	Dr. Oetker Original Backin
+=======
+
+Fuellung:
+
+	600 g	Weinbergpfirsiche
+	2 EL	Wasser
+110 g	Zucker
+1 Pck.	Dr. Oetker Vanillin-Zucker
+500 g	Joghurt
+4 Btl.	Dr. Oetker Gelatine fix
+400 g	kalte Schlagsahne
+
